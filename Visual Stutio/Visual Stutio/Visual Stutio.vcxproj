@@ -23,6 +23,7 @@
     <ClCompile Include="greedy_01.cpp" />
     <ClCompile Include="greedy_02.cpp" />
     <ClCompile Include="greedy_03.cpp" />
+    <ClCompile Include="greedy_04.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

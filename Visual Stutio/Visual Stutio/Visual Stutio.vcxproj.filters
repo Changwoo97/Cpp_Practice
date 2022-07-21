@@ -30,5 +30,8 @@
     <ClCompile Include="greedy_04.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="materialization_01.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
